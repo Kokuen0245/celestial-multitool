@@ -1,1 +1,44 @@
+How to use Amazon Store Cards
+Adding the store card.
+1. Click "Account and Lists".
+2. Click "Payment Options".
+3. Under "Credit or Debit Cards", Click "Add a Card".
+4. Type your Amazon accounts name, with the store card number.
+    (The expiration date will become unclickable)
+5. Click "Add your card".
+6. Type your billing address.
+7. Checkout an order and select it as the payment option.
 
+
+Checking out.
+1. Choose your shipping address.
+    (Amazon Locker\Reship also work)
+2. Choose the newly added payment method.
+   (Select “Earn 5% Back”)
+3. Choose the fastest delivery option.
+4. Checkout Order.
+
+———————————
+Main Method to get orders to go through.
+``Amazon’s billing department flags orders that are suspicious.
+To get around that you have to increment your order sizes.
+That means start small and work your way up to expensive orders.
+
+Here is the main ‘route’ we recommend.
+$50 -> $200 -> $500 -> doesn't matter.
+For example, your first order needs to be under $50. Order total. No exceptions.
+Then your next order is under $200. Again order total no exceptions.
+
+Some increments can sometime fail, either your arc died (Randomly), or your amazon account can’t take that big of a jump. We will replace it and you can try again with a step in-between.
+———————————
+STRICT RULES or your orders will fail.
+1) Once your arc is linked, wait 24 hours before placing any orders. I would recommend waiting 36hrs before using.
+
+do not use a vpn or 100% account locked.
+
+2) Wait until all pending orders have delivered before ordering the next increment.
+
+3) If you get a decline/revision. The arc is dead, unlink before it locks your amazon account.
+
+4) Only order physical items. Digital items, including Prime membership, giftcards, (even physical ones), and every other item that you can't hold in your hands, will flag your account and kill that arc
+Failure to follow these rules, means you do not get a replacement.
