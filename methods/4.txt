@@ -1,0 +1,31 @@
+Amazon Store Card Method 
+
+BEFORE ORDERING ANYTHING:
+
+1: Add the Store Card by Credit or Debit Card here (https://www.amazon.com/cpe/managepaymentmethods?ref_=ya_d_l_pmt_mpo&), Name has to be the same as the Amazon Account Name, Leave Expiration Date as default. Find a billing address here (https://pastebin.com/dZwC8zPQ), and a phone number here (https://pastebin.com/RcrDnC48).
+2: Wait the full time of 24 HRS. This is a key component of actually getting the full balance to work. It is buyers expense if the card no longer works if method is not followed.
+3: Make sure your first purchase is under $300. If it is, Amazon will get a alert and probably lock your account. They don't like big purchases out of no where.
+4: Classify all products you are purchasing as a gift. This is so you will not get billed. They will not bill a gift reciepient.
+5: Order products one by one. Wait until the product you order ships, til you order the next one.
+6: Order all products on the same device, using the same IP/Proxy. If Amazon sees different IP's, then they will automatically lock your account and cancel your order. Keep your default account settings.
+7: Delivery Address: Use all of your real info including the phone number. Amazon might call you to confirm the order. If you don't answer the call, Amazon will automatically cancel your order. If you miss the call, that is your fault.
+8: Don't constantly check if your order is still there. It is. Amazon logs how many times you check your orders. They will get suspicous if you're constantly checking your orders. You will get email updates anyway.
+9: If you are getting a refund, please go to Customer Service and ask for the refund to go to Gift Card Balance. This will make sure you keep the money if the card gets locked other wise. You can find customer service here (https://www.amazon.com/gp/help/customer/contact-us).
+10: Omg yes, the card has limits. Your account will get temp-locked if you go crazy.
+11: If Amazon asks you to finance. SAY NO.
+12: Not really required, but get the Free Trial of Amazon Prime so you can get faster shipping and not have to pay for it.
+
+
+AMAZON UNLOCKS YOUR ACCOUNT:
+1: Call Amazon saying that you will be ordering the next couple products.
+2: Age the card out a bit. 12-24 Hours. (Not needed but recommended).
+
+
+
+Extra Security Steps(not required but suggested):
+1. Register on https://reship.com <---- use your reship.com address as delivery address
+2. Connect to a proxy (socks5 is suggested) in the city where your reship.com address is.
+
+
+
+Statement Editable File: https://www.mediafire.com/file/w8p7mdforu3iuly/statement.psd/file
